@@ -19,5 +19,5 @@ It tooked me 4 hours to complete.
 
 # ✈️ Live Link
 
-[Netlify Link...]()
+[Netlify Link...](https://wordcounter-soumyadeeplaha.netlify.app/)
 
